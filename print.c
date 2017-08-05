@@ -2,5 +2,5 @@
 #include<conio.h>
 void main()
 {
-if(printf("Hello"))
+if(printf("Hello world"))
 }
